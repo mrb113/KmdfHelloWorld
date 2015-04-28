@@ -1,0 +1,6 @@
+KmdfHelloWorld/Win7Debug/
+KmdfHelloWorld/x64/Win8.1Debug/
+*.opensdf
+KmdfHelloWorld Package/x64/Win8.1Debug/
+KmdfHelloWorld Package/Win7Debug/
+*.vcxproj
